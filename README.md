@@ -1,6 +1,6 @@
 # python-challenge_rework
 Rework based on constructive comments by markers. 
-Basically misunderstanding in what was asked for afor PyBank 
+Basically misunderstanding in what was asked for PyBank 
 and missing election and bank analysis narrative
 
 ---------------------------------------------------------------------------------------------------------
