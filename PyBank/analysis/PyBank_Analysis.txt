@@ -1,0 +1,16 @@
+The Bank of Py
+--------------
+Their figures indicate they did quite well. 
+Looking at the raw data there were more months of Profits than
+lossess culminating in an overall profit for the period of $38,382,578.
+However an average monthly change of $-2,315.12 seems to indicate there might
+be some outliers in the monthly averages. Such as when there was a loss it was
+large but not many of them. An indication of this can be seen in the following
+lines
+---------------------------------------------------------
+Greatest Monthly Increase in Profits: Feb-2012 $ 1926159
+Greatest Monthly Decrease in Profits: Sep-2013 $-2196167
+------------------------------------------------------------
+Highest increase in profits was just under $2 million whilst greatest decrease
+was more than $2 million.
+
